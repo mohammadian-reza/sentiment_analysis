@@ -1,9 +1,6 @@
-<img align="right"  alt="Coding" height= "200" width="250"  src="https://cdn.dribbble.com/users/247769/screenshots/6193788/media/ef684d0bf94d33a70251db49da02301e.gif">
+<img  alt="AMZN" height= "200" width="250"  src="https://cdn.dribbble.com/users/247769/screenshots/6193788/media/ef684d0bf94d33a70251db49da02301e.gif">
+<img alt="Rate" height= "200" width="250"  src="https://cdn.dribbble.com/users/954572/screenshots/16765270/media/9265ca52c0278b81ce7e656f8f3356ce.gif">
 
-<img align="left" alt="Coding" height= "200" width="250"  src="https://cdn.dribbble.com/users/954572/screenshots/16765270/media/9265ca52c0278b81ce7e656f8f3356ce.gif">
-
-<img alt="Youtube" align="right" height= "200" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JwY2Nvajd0ZGo4bDVmZzl6b3p0MDgwYWpiam93cTMyMW5tcm4zNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Nc3xlO1kGg3S/giphy.gif"  >
-<img alt="comment" align="left" height= "200" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM5cGtyYjRrZHF3ZXV0b3JrbWxvNGI0YWU4dXVtbm90bzFqb2VydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hbwUaes8G8b17sPg9R/giphy.gif">
 
 # Sentiment_analysis
 ### This repo contains sentiment analysis based on comments and rates on YouTube and Amazon platforms.
@@ -37,7 +34,9 @@
     * Positive 1-Star and negative 5-Star Reviews
 * ### Step 5: The Transformers Pipeline
     * Quick and easy way to run sentiment predictions
- 
+
+<img alt="Youtube" height= "200" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JwY2Nvajd0ZGo4bDVmZzl6b3p0MDgwYWpiam93cTMyMW5tcm4zNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Nc3xlO1kGg3S/giphy.gif">
+<img alt="comment" height= "200" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM5cGtyYjRrZHF3ZXV0b3JrbWxvNGI0YWU4dXVtbm90bzFqb2VydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hbwUaes8G8b17sPg9R/giphy.gif">
 
 # **2. The YouTube comments Sentiment Analysis**
 ##### :red_circle: **You could download the dataset with this command: ``` ! kaggle datasets download -d datasnaek/youtube-new ```**
